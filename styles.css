@@ -16,7 +16,9 @@
 }
 
 .item-b {
-    background-color: white;
+    background-image:url();
+    background-size:cover;
+    background-position:fixed;
     border: 0px white none;
     width: auto;
     height: 30vh;
